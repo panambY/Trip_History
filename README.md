@@ -4,7 +4,7 @@
 This dataset comes from a bike sharing service in the United States. This dataset requires you to exercise your pro data munging skills. The data is provided quarter-wise from 2010 (Q4) onwards. Each file has 7 columns. It is a classification problem.
 
 <p align="center">
-  <img src="https://github.com/panambY/Trip_History/blob/master/image/trip_history.jpeg">
+  <img src="https://github.com/panambY/Trip_History/blob/master/image/trip_history.jpg">
 </p>
 
 # System Data
